@@ -28,7 +28,10 @@ export default function Footer() {
 
         <div className="border-t border-white/10 mt-8 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-sm">&copy; {new Date().getFullYear()} Liuwa Technologies. All rights reserved.</p>
-          <p className="text-sm text-gray-500">Built with purpose in Zambia.</p>
+          <div className="flex flex-wrap justify-center gap-x-6 gap-y-1 text-xs text-gray-500">
+            <span>Reg. No: 120251030067</span>
+            <span>TPIN: 2004147098</span>
+          </div>
         </div>
       </div>
     </footer>

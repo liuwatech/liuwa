@@ -53,7 +53,6 @@ const projects = [
       </svg>
     ),
     category: 'FinTech',
-    link: 'https://luseprices.streamlit.app/',
   },
   {
     title: 'AI Agent via SMS',
