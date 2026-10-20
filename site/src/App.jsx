@@ -3,6 +3,7 @@ import Navbar from './components/Navbar'
 import Hero from './components/Hero'
 import FlagshipProducts from './components/FlagshipProducts'
 import Projects from './components/Projects'
+import DailyBrief from './components/DailyBrief'
 import Expertise from './components/Expertise'
 import About from './components/About'
 import Contact from './components/Contact'
@@ -17,6 +18,7 @@ function App() {
       <Hero />
       <FlagshipProducts />
       <Projects />
+      <DailyBrief />
       <Expertise />
       <About />
       <Contact />

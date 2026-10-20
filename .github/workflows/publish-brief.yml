@@ -1,0 +1,72 @@
+name: Publish Daily Brief
+
+# The scheduled Claude routine pushes each brief to a claude/daily-brief-* branch.
+# This workflow checks the branch only adds site/public/news/YYYY-MM-DD.html,
+# copies that file onto main and deletes the branch. The push to main (made with
+# the deploy key) triggers deploy.yml.
+#
+# workflow_run always runs main's copy of this file, and the deploy key lives in
+# the brief-publisher environment, which only main may use.
+
+on:
+  workflow_run:
+    workflows: ['Daily brief pushed']
+    types: [completed]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: publish-brief
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    if: github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    environment: brief-publisher
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+          ssh-key: ${{ secrets.BRIEF_DEPLOY_KEY }}
+
+      - name: Validate and publish brief
+        env:
+          BRANCH: ${{ github.event.workflow_run.head_branch }}
+          SHA: ${{ github.event.workflow_run.head_sha }}
+        run: |
+          set -euo pipefail
+          if ! [[ "$BRANCH" =~ ^claude/daily-brief-[A-Za-z0-9._-]+$ ]]; then
+            echo "::error::Unexpected branch name: $BRANCH"
+            exit 1
+          fi
+
+          git fetch origin "$SHA"
+          changes=$(git diff --name-status "$(git merge-base origin/main "$SHA")" "$SHA")
+          echo "$changes"
+
+          if [ -z "$changes" ]; then
+            echo "::error::No changes found on $BRANCH"
+            exit 1
+          fi
+          if echo "$changes" | grep -Ev '^[AM]'$'\t''site/public/news/[0-9]{4}-[0-9]{2}-[0-9]{2}\.html$'; then
+            echo "::error::Only site/public/news/YYYY-MM-DD.html files may be added or updated"
+            exit 1
+          fi
+
+          files=$(echo "$changes" | cut -f2)
+          for f in $files; do
+            if git show "$SHA:$f" | grep -qi '<script'; then
+              echo "::error::$f contains a <script> tag; briefs must be static HTML"
+              exit 1
+            fi
+          done
+
+          git checkout "$SHA" -- $files
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "news: publish $(basename -a $files | tr '\n' ' ')"
+          git push origin main
+          git push origin --delete "$BRANCH"

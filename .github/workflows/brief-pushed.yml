@@ -1,0 +1,16 @@
+name: Daily brief pushed
+
+# Signals publish-brief.yml, which runs from main's copy of the workflow and so
+# can't be altered by whatever is pushed to the brief branch. Needs no permissions.
+
+on:
+  push:
+    branches: ['claude/daily-brief-**']
+
+permissions: {}
+
+jobs:
+  signal:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Brief pushed to $GITHUB_REF_NAME"
