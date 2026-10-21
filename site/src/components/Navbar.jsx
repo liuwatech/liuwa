@@ -4,7 +4,7 @@ const navLinks = [
   { href: '#flagship', label: 'Products' },
   { href: '#projects', label: 'Projects' },
   { href: '#expertise', label: 'Expertise' },
-  { href: '/news/', label: 'News' },
+  { href: '/pod/', label: 'Podcast' },
   { href: '#about', label: 'About' },
   { href: '#contact', label: 'Contact' },
 ]
