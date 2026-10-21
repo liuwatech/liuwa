@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Liuwa Pod — Zambia's morning, explained</title>
+  <meta name="description" content="Liuwa Pod is a ten-minute daily news show made in Lusaka. Every morning, Tash and Bwalya take the stories that matter to Zambian households and businesses and work out why they happened and what they mean for you." />
+  <meta property="og:title" content="Liuwa Pod" />
+  <meta property="og:description" content="Zambia's morning, explained. A ten-minute daily news show made in Lusaka by Liuwa Tech." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://liuwa.co.zm/pod/" />
+  <meta property="og:image" content="https://liuwa.co.zm/pod/cover.jpg" />
+  <link rel="alternate" type="application/rss+xml" title="Liuwa Pod" href="https://liuwa.co.zm/pod/feed.xml" />
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    :root { --green: #007550; --green-dark: #005f40; --mint: #6ee7b7; --ink: #111827; --muted: #6b7280; --line: #e5e7eb; }
+    * { box-sizing: border-box; }
+    body { margin: 0; background: #f9fafb; color: var(--ink); font-family: 'Inter', system-ui, -apple-system, sans-serif; -webkit-font-smoothing: antialiased; }
+    header { background: linear-gradient(135deg, #002e20, var(--green)); color: #fff; padding: 24px 16px 56px; }
+    .wrap { max-width: 760px; margin: 0 auto; }
+    .brand { display: inline-flex; align-items: center; gap: 10px; color: #fff; text-decoration: none; font-weight: 700; }
+    .brand img { width: 36px; height: 36px; }
+    .show { display: flex; gap: 28px; align-items: center; margin-top: 40px; flex-wrap: wrap; }
+    .cover { width: 200px; height: 200px; border-radius: 16px; box-shadow: 0 16px 40px rgba(0,0,0,0.35); flex: none; }
+    h1 { font-size: clamp(2rem, 6vw, 3rem); margin: 0 0 8px; letter-spacing: -0.02em; }
+    .tagline { margin: 0 0 20px; color: rgba(255,255,255,0.85); font-size: 1.1rem; }
+    .subscribe { display: flex; gap: 10px; flex-wrap: wrap; }
+    .btn { display: inline-block; padding: 10px 18px; border-radius: 999px; font-weight: 600; text-decoration: none; background: #fff; color: var(--green-dark); }
+    .btn.ghost { background: transparent; color: #fff; border: 1px solid rgba(255,255,255,0.6); }
+    .btn[hidden] { display: none; }
+    main { padding: 0 16px; }
+    .about { background: #fff; border: 1px solid var(--line); border-radius: 12px; padding: 20px 24px; margin: -32px 0 32px; line-height: 1.6; color: #374151; }
+    h2 { font-size: 1.25rem; margin: 32px 0 12px; }
+    .card { background: #fff; border: 1px solid var(--line); border-radius: 12px; padding: 20px 24px; margin-bottom: 12px; scroll-margin-top: 16px; }
+    .card.latest { border-color: rgba(0,117,80,0.5); }
+    .date { display: block; font-size: .8rem; font-weight: 600; color: var(--green); text-transform: uppercase; letter-spacing: .05em; margin-bottom: 6px; }
+    .card h3 { margin: 0 0 12px; font-size: 1.1rem; }
+    audio { width: 100%; margin-bottom: 12px; }
+    details summary { cursor: pointer; font-weight: 600; color: var(--green-dark); }
+    .notes { white-space: pre-line; color: #374151; line-height: 1.6; margin: 10px 0 0; font-size: .95rem; }
+    .empty { color: var(--muted); }
+    footer { text-align: center; color: var(--muted); font-size: .85rem; padding: 32px 16px 48px; line-height: 1.6; }
+    footer a { color: var(--green); }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="wrap">
+      <a class="brand" href="/"><img src="/liuwa-wildebeest-hifi.svg" alt="" />Liuwa Technologies</a>
+      <div class="show">
+        <img class="cover" src="/pod/cover.jpg" alt="Liuwa Pod cover art" width="200" height="200" />
+        <div>
+          <h1>Liuwa Pod</h1>
+          <p class="tagline">Zambia's morning, explained. Ten minutes, every morning.</p>
+          <div class="subscribe">
+            <a id="spotify" class="btn" hidden>Listen on Spotify</a>
+            <a class="btn ghost" href="/pod/feed.xml">RSS feed</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+  <main class="wrap">
+    <p class="about">Liuwa Pod is a ten-minute daily news show made in Lusaka. Every morning, Tash and Bwalya take the stories that matter to Zambian households and businesses, from power and mining to the kwacha, fuel and food prices and the wider world, and work out why they happened and what they mean for you. Then Professor Grace Mumba drops in with a word of the day and a piece of maths anyone can follow. Every figure is sourced in the show notes. The hosts are synthetic voices; the facts are real and independently checked. Nothing on Liuwa Pod is financial advice.</p>
+    <h2>Episodes</h2>
+    <div id="episodes"><p class="empty">Loading episodes…</p></div>
+  </main>
+  <footer>Made by Liuwa Tech. The hosts are synthetic voices; the facts are real and independently checked.<br>Nothing on Liuwa Pod is financial advice. <a href="/">Back to liuwa.co.zm</a></footer>
+  <script>
+    // Set this once the show is live on Spotify, e.g. 'https://open.spotify.com/show/...'
+    const SPOTIFY_URL = '';
+    if (SPOTIFY_URL) { const s = document.getElementById('spotify'); s.href = SPOTIFY_URL; s.hidden = false; }
+
+    const ITUNES = 'http://www.itunes.com/dtds/podcast-1.0.dtd';
+    const text = (el, tag) => (el.getElementsByTagName(tag)[0] || {}).textContent || '';
+    const itunes = (el, tag) => (el.getElementsByTagNameNS(ITUNES, tag)[0] || {}).textContent || '';
+
+    fetch('/pod/feed.xml').then(r => r.text()).then(xml => {
+      const doc = new DOMParser().parseFromString(xml, 'application/xml');
+      const items = [...doc.getElementsByTagName('item')];
+      const box = document.getElementById('episodes');
+      if (!items.length) { box.innerHTML = '<p class="empty">The first episode is on its way.</p>'; return; }
+      box.innerHTML = '';
+      items.forEach((it, i) => {
+        const ep = itunes(it, 'episode');
+        const date = new Date(text(it, 'pubDate')).toLocaleDateString('en-GB', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' });
+        const mins = Math.round((parseInt(itunes(it, 'duration'), 10) || 0) / 60);
+        const enc = it.getElementsByTagName('enclosure')[0];
+        const card = document.createElement('article');
+        card.className = 'card' + (i === 0 ? ' latest' : '');
+        if (ep) card.id = 'ep' + ep;
+        card.innerHTML = `<span class="date"></span><h3></h3><audio controls preload="none"></audio><details${i === 0 ? ' open' : ''}><summary>Show notes</summary><p class="notes"></p></details>`;
+        card.querySelector('.date').textContent = (i === 0 ? 'Latest · ' : '') + date + (mins ? ` · ${mins} min` : '');
+        card.querySelector('h3').textContent = text(it, 'title');
+        card.querySelector('audio').src = enc ? enc.getAttribute('url') : '';
+        card.querySelector('.notes').textContent = text(it, 'description');
+        box.appendChild(card);
+      });
+      if (location.hash) document.querySelector(location.hash)?.scrollIntoView();
+    }).catch(() => { document.getElementById('episodes').innerHTML = '<p class="empty">Could not load the episode list. <a href="/pod/feed.xml">Open the RSS feed</a>.</p>'; });
+  </script>
+</body>
+</html>

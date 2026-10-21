@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+  <title>Liuwa Pod</title>
+  <link>https://liuwa.co.zm/pod/</link>
+  <atom:link href="https://liuwa.co.zm/pod/feed.xml" rel="self" type="application/rss+xml"/>
+  <language>en</language>
+  <copyright>© 2026 Liuwa Tech</copyright>
+  <description>Liuwa Pod is a ten-minute daily news show made in Lusaka. Every morning, Tash and Bwalya take the stories that matter to Zambian households and businesses, from power and mining to the kwacha, fuel and food prices and the wider world, and work out why they happened and what they mean for you. Then Professor Grace Mumba drops in with a word of the day and a piece of maths anyone can follow. Every figure is sourced in the show notes. The hosts are synthetic voices; the facts are real and independently checked. Nothing on Liuwa Pod is financial advice. Made by Liuwa Tech.</description>
+  <itunes:author>Liuwa Tech</itunes:author>
+  <itunes:owner><itunes:name>Liuwa Tech</itunes:name><itunes:email>liuwatech@gmail.com</itunes:email></itunes:owner>
+  <itunes:image href="https://liuwa.co.zm/pod/cover.jpg"/>
+  <itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+   <title>Ep 1 · Use it or lose it, and the house always wins</title>
+   <description>President Hichilema tells mining licence holders to use it or lose it, and we work out why an idle licence costs jobs, plus the Auditor-General's uncollected mining penalties, Zambians in hiding in South Africa, and fuel prices. Kwacha Sense explains why high copper hasn't lifted the kwacha, Kalaba does a labelled Musk impression on SpaceX's results, and Professor Mumba proves the house always wins at roulette.
+
+Chapters:
+00:00 Cold open
+00:29 Hello and rundown
+00:57 Weather and the kwacha jar
+01:52 Top story: use it or lose it
+03:30 News round
+04:52 Kwacha Sense
+05:49 Frontier
+07:02 Word of the Day
+07:48 On This Day and Did You Know
+08:22 Maths Corner
+10:18 Sign-off
+
+Full show notes and sources: https://liuwa.co.zm/pod/#ep1
+Nothing in this episode is financial advice. Voices are synthetic.</description>
+   <enclosure url="https://github.com/liuwatech/liuwa-pod-audio/releases/download/ep1/261021_liuwa_pod_ep1.mp3" length="10353908" type="audio/mpeg"/>
+   <guid isPermaLink="false">liuwa-pod-ep1</guid>
+   <pubDate>Wed, 21 Oct 2026 06:00:00 +0200</pubDate>
+   <itunes:duration>647</itunes:duration>
+   <itunes:episode>1</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+ </channel>
+</rss>
