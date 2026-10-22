@@ -14,6 +14,33 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <item>
+   <title>Ep 3 · The bug in the engine, and the hidden sum on your bank card</title>
+   <description>Two critical flaws in PHP, the language under most of the world's websites, were found with AI help and patched in a rush; we explain them, test the claim that AI found them before attackers did, and say what Zambian website owners should ask their hosts. Plus oil jumps on Gulf attacks, a fertiliser plant breaks ground in Chilanga, Kansanshi beats its design, Kwacha Sense on dollar prices in disguise, a data-centre power mandate in Frontier, and Professor Mumba reveals the check digit on every bank card.
+
+Chapters:
+00:00 Cold open
+00:28 Hello and rundown
+00:55 Weather and the kwacha jar
+02:09 Top story: the bug in the engine
+04:37 News round
+05:58 Kwacha Sense
+07:07 Frontier
+08:47 Word of the Day
+09:44 On This Day and Did You Know
+10:26 Maths Corner
+12:36 Sign-off
+
+Full show notes and sources: https://liuwa.co.zm/pod/#ep3
+Nothing in this episode is financial advice. Voices are synthetic.</description>
+   <enclosure url="https://github.com/liuwatech/liuwa-pod-audio/releases/download/ep3/261022_liuwa_pod_ep3.mp3" length="12642668" type="audio/mpeg"/>
+   <guid isPermaLink="false">liuwa-pod-ep3</guid>
+   <pubDate>Thu, 22 Oct 2026 13:00:00 +0200</pubDate>
+   <itunes:duration>790</itunes:duration>
+   <itunes:episode>3</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
    <title>Ep 2 · Swap maize, not soldiers, and the shortcut that slows everyone down</title>
    <description>President Hichilema wants the region swapping maize instead of soldiers as COMESA meets in Harare, and we ask what happens in a bad rain year, given Zambia's own 2024 export ban. Plus oil near a five-month high, South Africa's growth downgrade and an inflation watch; Kwacha Sense explains what the inflation number measures; Tesla's results and its robot promises, with an unexpected visit from Mr Phiri; and Professor Mumba shows how a free shortcut can make every driver slower.
 
@@ -32,7 +59,7 @@ Chapters:
 
 Full show notes and sources: https://liuwa.co.zm/pod/#ep2
 Nothing in this episode is financial advice. Voices are synthetic.</description>
-   <enclosure url="https://liuwatech.github.io/liuwa-pod-audio/261022_liuwa_pod_ep2.mp3" length="12004034" type="audio/mpeg"/>
+   <enclosure url="https://github.com/liuwatech/liuwa-pod-audio/releases/download/ep2/261022_liuwa_pod_ep2.mp3" length="12004034" type="audio/mpeg"/>
    <guid isPermaLink="false">liuwa-pod-ep2</guid>
    <pubDate>Thu, 22 Oct 2026 06:00:00 +0200</pubDate>
    <itunes:duration>750</itunes:duration>
@@ -59,7 +86,7 @@ Chapters:
 
 Full show notes and sources: https://liuwa.co.zm/pod/#ep1
 Nothing in this episode is financial advice. Voices are synthetic.</description>
-   <enclosure url="https://liuwatech.github.io/liuwa-pod-audio/261021_liuwa_pod_ep1.mp3" length="10353908" type="audio/mpeg"/>
+   <enclosure url="https://github.com/liuwatech/liuwa-pod-audio/releases/download/ep1/261021_liuwa_pod_ep1.mp3" length="10353908" type="audio/mpeg"/>
    <guid isPermaLink="false">liuwa-pod-ep1</guid>
    <pubDate>Wed, 21 Oct 2026 06:00:00 +0200</pubDate>
    <itunes:duration>647</itunes:duration>
