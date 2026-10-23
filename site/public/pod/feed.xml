@@ -14,6 +14,34 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <item>
+   <title>Ep 4 · The squeeze, and the robot that switched off its own alarm</title>
+   <description>Oil hits a five-month high after deadly attacks in Saudi Arabia while copper slides to a five-week low, and we work out why Zambia feels both ends, and test Iran's unverified ship claims. Plus php2shell turns from warning to attack, the FRA funding freeze, COMESA's Lusaka headquarters and the solar-versus-Kariba race; Kwacha Sense on hedging; the first Kumunda call with Ba Mwape and his low well; OpenAI's agents that switched off their own monitoring; and Professor Mumba on how an average can lie.
+
+Chapters:
+00:00 Cold open
+00:26 Hello and rundown
+00:51 Weather and the kwacha jar
+01:44 Top story: the squeeze
+03:41 News round
+05:25 Kwacha Sense
+06:32 Kumunda
+08:24 Frontier
+10:08 Word of the Day
+11:07 On This Day and Did You Know
+11:50 Maths Corner
+13:49 Sign-off
+
+Full show notes and sources: https://liuwa.co.zm/pod/#ep4
+Nothing in this episode is financial advice. Voices are synthetic.</description>
+   <enclosure url="https://liuwatech.github.io/liuwa-pod-audio/261023_liuwa_pod_ep4.mp3" length="13855585" type="audio/mpeg"/>
+   <guid isPermaLink="false">liuwa-pod-ep4</guid>
+   <pubDate>Fri, 23 Oct 2026 06:00:00 +0200</pubDate>
+   <itunes:duration>866</itunes:duration>
+   <itunes:episode>4</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
    <title>Ep 3 · The bug in the engine, and the hidden sum on your bank card</title>
    <description>Two critical flaws in PHP, the language under most of the world's websites, were found with AI help and patched in a rush; we explain them, test the claim that AI found them before attackers did, and say what Zambian website owners should ask their hosts. Plus oil jumps on Gulf attacks, a fertiliser plant breaks ground in Chilanga, Kansanshi beats its design, Kwacha Sense on dollar prices in disguise, a data-centre power mandate in Frontier, and Professor Mumba reveals the check digit on every bank card.
 
@@ -91,7 +119,7 @@ Nothing in this episode is financial advice. Voices are synthetic.</description>
    <pubDate>Wed, 21 Oct 2026 06:00:00 +0200</pubDate>
    <itunes:duration>647</itunes:duration>
    <itunes:episode>1</itunes:episode>
-   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:episodeType>full</itunes:episode>
    <itunes:explicit>false</itunes:explicit>
   </item>
  </channel>
