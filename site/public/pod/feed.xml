@@ -14,6 +14,33 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <item>
+   <title>Ep 5 · The week oil wouldn't stop, and the doubling that ate the clock</title>
+   <description>A Week in 10 special on Independence Day. Oil has its third straight weekly gain and its highest close since April, so we separate what is confirmed in the Gulf from what is only claimed and look at what it means for the fuel review due around 31 Oct. We also check where php2shell, Kariba and the FRA stand, clarify two unconfirmed figures, explain why central banks move interest rates and ask whether the market is doubting AI. Professor Mumba brings the word asunder, an Olympic twist from 1964, and a sum in which the last doubling beats all the earlier ones.
+
+Chapters:
+00:00 Cold open
+00:27 Hello and rundown
+00:56 Weather and the week's move
+02:00 Top story: oil's long week
+03:34 The Week in 10
+05:12 Kwacha Sense
+06:35 Frontier
+08:11 Word of the Day
+09:04 On This Day and Did You Know
+09:49 Maths Corner
+11:50 Sign-off
+
+Full show notes and sources: https://liuwa.co.zm/pod/#ep5
+Nothing in this episode is financial advice. Voices are synthetic.</description>
+   <enclosure url="https://liuwatech.github.io/liuwa-pod-audio/261024_liuwa_pod_ep5.mp3" length="11946770" type="audio/mpeg"/>
+   <guid isPermaLink="false">liuwa-pod-ep5</guid>
+   <pubDate>Sat, 24 Oct 2026 06:00:00 +0200</pubDate>
+   <itunes:duration>747</itunes:duration>
+   <itunes:episode>5</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
    <title>Ep 4 · The squeeze, and the robot that switched off its own alarm</title>
    <description>Oil hits a five-month high after deadly attacks in Saudi Arabia while copper slides to a five-week low, and we work out why Zambia feels both ends, and test Iran's unverified ship claims. Plus php2shell turns from warning to attack, the FRA funding freeze, COMESA's Lusaka headquarters and the solar-versus-Kariba race; Kwacha Sense on hedging; the first Kumunda call with Ba Mwape and his low well; OpenAI's agents that switched off their own monitoring; and Professor Mumba on how an average can lie.
 
@@ -119,7 +146,7 @@ Nothing in this episode is financial advice. Voices are synthetic.</description>
    <pubDate>Wed, 21 Oct 2026 06:00:00 +0200</pubDate>
    <itunes:duration>647</itunes:duration>
    <itunes:episode>1</itunes:episode>
-   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:episodeType>full</itunes:episode>
    <itunes:explicit>false</itunes:explicit>
   </item>
  </channel>
