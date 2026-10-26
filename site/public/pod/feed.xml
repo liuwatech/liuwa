@@ -14,6 +14,33 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <item>
+   <title>Ep 7 · Fuel week, and the average that lies</title>
+   <description>Brent ended Friday at its highest close since April, the Houthis claimed more strikes on Saudi targets, and the ERB sets November pump prices at month end: what it weighs and what would change our minds. The rains split the country, Lula wins a fourth term in Brazil, Kwacha Sense asks what the IMF actually does, and php2shell has its first reported real victim, with plain advice for anyone running a website. Professor Mumba brings emissary, the last natural smallpox case, Cleopatra and the Moon landing, and the average that lies.
+
+Chapters:
+00:00 Cold open
+00:28 Hello and the rundown
+00:56 Weather and the kwacha jar
+01:49 Top story: fuel week
+03:48 News round
+05:17 Kwacha Sense
+06:33 Frontier
+08:50 Word of the Day
+09:40 On This Day and Did You Know
+10:22 Maths Corner
+12:46 Sign-off
+
+Full show notes and sources: https://liuwa.co.zm/pod/#ep7
+Nothing in this episode is financial advice. Voices are synthetic.</description>
+   <enclosure url="https://liuwatech.github.io/liuwa-pod-audio/261026_liuwa_pod_ep7.mp3" length="12820278" type="audio/mpeg"/>
+   <guid isPermaLink="false">liuwa-pod-ep7</guid>
+   <pubDate>Mon, 26 Oct 2026 06:00:00 +0200</pubDate>
+   <itunes:duration>801</itunes:duration>
+   <itunes:episode>7</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
    <title>Ep 6 · Budget week, and the hotel that's never full</title>
    <description>The Week Ahead. Parliament has an extra K19.9bn budget for 2026, mostly to pay farmers who sold maize to the FRA, and the 2027 budget is reported for Friday: how the maize bill grew, who wins and who pays, and why government borrowing can make a shop loan dearer. We correct what we said about the FRA's buying season, run through the week's diary (the US Fed, First Quantum, inflation, fuel prices) and look at hackers who used AI agents against Microsoft 365. Professor Mumba brings puissant, the Charge of the Light Brigade, 20 quadrillion ants and Hilbert's Hotel.
 
@@ -173,7 +200,7 @@ Nothing in this episode is financial advice. Voices are synthetic.</description>
    <pubDate>Wed, 21 Oct 2026 06:00:00 +0200</pubDate>
    <itunes:duration>647</itunes:duration>
    <itunes:episode>1</itunes:episode>
-   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:episodeType>full</itunes:episode>
    <itunes:explicit>false</itunes:explicit>
   </item>
  </channel>
