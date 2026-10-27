@@ -14,6 +14,33 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <item>
+   <title>Ep 8 · A new shape for government, and when to stop looking</title>
+   <description>President Hichilema asks Parliament to approve a restructuring of government ministries, with no list, cost or date yet: what we know, what we don't, and what would change our minds. Oil eases ahead of the Fed, a Kalulushi copper deal, Central Province farmers collect inputs, and Kwacha Sense asks what a share is as Anthropic files to go public. Frontier: OpenAI's GPT-6.1 Terra, rated Critical for cyber capability by its maker, and php2shell now successfully exploited, with advice. Professor Mumba brings disparate, the New York subway, cube-shaped wombat droppings and the 37% rule, and Bwalya catches her out.
+
+Chapters:
+00:00 Cold open
+00:31 Hello and the rundown
+01:23 Weather and the kwacha jar
+02:09 Top story: a new shape for government
+03:59 News round
+05:29 Kwacha Sense
+06:54 Frontier
+08:55 Word of the Day
+09:56 On This Day and Did You Know
+10:41 Maths Corner
+12:50 Sign-off
+
+Full show notes and sources: https://liuwa.co.zm/pod/#ep8
+Nothing in this episode is financial advice. Voices are synthetic.</description>
+   <enclosure url="https://liuwatech.github.io/liuwa-pod-audio/261027_liuwa_pod_ep8.mp3" length="12820294" type="audio/mpeg"/>
+   <guid isPermaLink="false">liuwa-pod-ep8</guid>
+   <pubDate>Tue, 27 Oct 2026 06:00:00 +0200</pubDate>
+   <itunes:duration>801</itunes:duration>
+   <itunes:episode>8</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
    <title>Ep 7 · Fuel week, and the average that lies</title>
    <description>Brent ended Friday at its highest close since April, the Houthis claimed more strikes on Saudi targets, and the ERB sets November pump prices at month end: what it weighs and what would change our minds. The rains split the country, Lula wins a fourth term in Brazil, Kwacha Sense asks what the IMF actually does, and php2shell has its first reported real victim, with plain advice for anyone running a website. Professor Mumba brings emissary, the last natural smallpox case, Cleopatra and the Moon landing, and the average that lies.
 
@@ -200,7 +227,7 @@ Nothing in this episode is financial advice. Voices are synthetic.</description>
    <pubDate>Wed, 21 Oct 2026 06:00:00 +0200</pubDate>
    <itunes:duration>647</itunes:duration>
    <itunes:episode>1</itunes:episode>
-   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:episodeType>full</itunes:episode>
    <itunes:explicit>false</itunes:explicit>
   </item>
  </channel>
