@@ -286,7 +286,7 @@ Nothing in this episode is financial advice. Voices are synthetic.</description>
    <pubDate>Wed, 21 Oct 2026 06:00:00 +0200</pubDate>
    <itunes:duration>647</itunes:duration>
    <itunes:episode>1</itunes:episode>
-   <itunes:episodeType>full</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
    <itunes:explicit>false</itunes:explicit>
   </item>
  </channel>
