@@ -14,6 +14,35 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <item>
+   <title>Ep 10 · Kansanshi's grades and the kwacha that will not follow copper</title>
+   <description>First Quantum's Q3: more copper overall but poorer ore, so Kansanshi and Sentinel guidance cut at the top; the deep dive asks why the kwacha sits at a one-year low (~K20.3) with copper near a record; Lobito builders named; farmers' K14.6bn now stated in Parliament; SA fuel levy relief (reported) and Malawi's fuel crisis; Microsoft and Alphabet ~$97bn AI capex; PHP2Shell used against a US government-affiliated network (Dream).
+
+Chapters:
+00:00 Cold open
+00:24 Hello and what's coming up
+01:10 The sky and the board
+01:55 The lead
+03:32 The deep dive: copper near a record, kwacha at a one-year low
+06:17 The news round
+07:34 The region and the world
+08:47 Copper
+09:27 Frontier
+11:39 Money minute
+12:44 Numbers desk
+14:32 Quick round: a word, a date and a fact
+15:35 Watching list and sign-off
+
+Full show notes and sources: https://liuwa.co.zm/pod/#ep10
+Nothing in this episode is financial advice. Voices are synthetic.</description>
+   <enclosure url="https://liuwatech.github.io/liuwa-pod-audio/261029_liuwa_pod_ep10.mp3" length="15606368" type="audio/mpeg"/>
+   <guid isPermaLink="false">liuwa-pod-ep10</guid>
+   <pubDate>Thu, 29 Oct 2026 06:00:00 +0200</pubDate>
+   <itunes:duration>975</itunes:duration>
+   <itunes:episode>10</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
    <title>Ep 9 · A week for additional measures and who really lends to Zambia</title>
    <description>The new team's first morning: the 2027 budget slips to 6 November for unnamed 'additional measures'; the deep dive follows the borrowing (K44.9bn, mostly domestic) to a Kabwata shopkeeper's loan; 30 ministries approved; kwacha above K20 ahead of the ERB; farmers owed K14.6bn; copper near a record; Anthropic's S-1 disclosures; PHP2Shell on CISA's list; the Scout on dry-season wildlife and Kasanka's bats.
 
@@ -257,7 +286,7 @@ Nothing in this episode is financial advice. Voices are synthetic.</description>
    <pubDate>Wed, 21 Oct 2026 06:00:00 +0200</pubDate>
    <itunes:duration>647</itunes:duration>
    <itunes:episode>1</itunes:episode>
-   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:episodeType>full</itunes:episode>
    <itunes:explicit>false</itunes:explicit>
   </item>
  </channel>
