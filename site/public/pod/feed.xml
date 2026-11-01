@@ -14,6 +14,35 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <item>
+   <title>Ep 12 · Covered is not recovered, and the fear that crosses the border</title>
+   <description>About $6.3bn stolen from Binance, the largest crypto theft on record; the FBI blames North Korea's TraderTraitor, and Binance says it has covered (not recovered) about 90%. Deep dive: Congo's Bundibugyo Ebola outbreak at about 5,000 deaths, no vaccine, no case in Zambia, and the cost of fear at Kasumbalesa. Also ERB November fuel prices, Hormuz talks and Brent at $113, copper's first monthly loss since June, OpenAI's smaller round and an Ivanti VPN alert.
+
+Chapters:
+0:00 Cold open
+0:27 Hello and what's coming up
+1:08 The sky and the board
+1:53 The lead
+3:30 The deep dive: Ebola next door
+6:35 The news round
+8:07 The region and the world
+9:36 Copper
+10:16 Frontier
+12:41 Money minute
+13:40 Numbers desk
+15:17 Quick round: a word, a date and a fact
+16:26 Watching list and sign-off
+
+Full show notes and sources: https://liuwa.co.zm/pod/#ep12
+Nothing in this episode is financial advice. Voices are synthetic.</description>
+   <enclosure url="https://liuwatech.github.io/liuwa-pod-audio/261101_liuwa_pod_ep12.mp3" length="16397147" type="audio/mpeg"/>
+   <guid isPermaLink="false">liuwa-pod-ep12</guid>
+   <pubDate>Sun, 01 Nov 2026 06:00:00 +0200</pubDate>
+   <itunes:duration>1024</itunes:duration>
+   <itunes:episode>12</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
    <title>Ep 11 · Who pays for the maize, and the first rise after the long fall</title>
    <description>Government plans to borrow about K18bn at home (News Diggers, single source) to fund the K19.9bn supplementary budget, about K14.7bn of it for FRA maize farmers; the deep dive: October inflation up to 6.3% (non-food 7.4%), the first rise after a long fall; new mines minister Brenda Tambatamba; copper ~$14,500; Amazon AWS +39% and ~$220bn capex; Node2Shell (Brotli) reported exploited; Ba Mwape's first Kumunda call with this team.
 
@@ -315,7 +344,7 @@ Nothing in this episode is financial advice. Voices are synthetic.</description>
    <pubDate>Wed, 21 Oct 2026 06:00:00 +0200</pubDate>
    <itunes:duration>647</itunes:duration>
    <itunes:episode>1</itunes:episode>
-   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:episodeType>full</itunes:episode>
    <itunes:explicit>false</itunes:explicit>
   </item>
  </channel>
