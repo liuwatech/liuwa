@@ -14,6 +14,35 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <item>
+   <title>Ep 13 · Budget week, Hormuz to the minibus fare, and a victory not worth winning</title>
+   <description>Budget week: the 2027 budget comes on Friday, with Reuters reporting about K271.9bn of spending and K44.9bn borrowed. The deep dive follows a barrel from the Strait of Hormuz to a Lusaka minibus tank, and asks why cheaper oil this morning does not mean a cheaper litre this week. Plus the rains outlook, South Africa's and America's votes, copper's slip, a GitLab flaw under attack, the rule of 72 and why most fraud alerts are false.
+
+Chapters:
+00:00 Cold open
+00:29 Hello and what's coming up
+01:16 The sky and the board
+02:11 The lead
+03:35 The deep dive: From Hormuz to the minibus fare
+06:42 The news round
+07:40 The region and the world
+09:01 Copper
+09:44 Frontier
+12:08 Money minute
+13:22 Numbers desk
+15:09 Quick round: a word, a date and a fact
+16:36 Watching list and sign-off
+
+Full show notes and sources: https://liuwa.co.zm/pod/#ep13
+Nothing in this episode is financial advice. Voices are synthetic.</description>
+   <enclosure url="https://liuwatech.github.io/liuwa-pod-audio/261102_liuwa_pod_ep13.mp3" length="16631214" type="audio/mpeg"/>
+   <guid isPermaLink="false">liuwa-pod-ep13</guid>
+   <pubDate>Mon, 02 Nov 2026 06:00:00 +0200</pubDate>
+   <itunes:duration>1039</itunes:duration>
+   <itunes:episode>13</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
    <title>Ep 12 · Covered is not recovered, and the fear that crosses the border</title>
    <description>About $6.3bn stolen from Binance, the largest crypto theft on record; the FBI blames North Korea's TraderTraitor, and Binance says it has covered (not recovered) about 90%. Deep dive: Congo's Bundibugyo Ebola outbreak at about 5,000 deaths, no vaccine, no case in Zambia, and the cost of fear at Kasumbalesa. Also ERB November fuel prices, Hormuz talks and Brent at $113, copper's first monthly loss since June, OpenAI's smaller round and an Ivanti VPN alert.
 
@@ -344,7 +373,7 @@ Nothing in this episode is financial advice. Voices are synthetic.</description>
    <pubDate>Wed, 21 Oct 2026 06:00:00 +0200</pubDate>
    <itunes:duration>647</itunes:duration>
    <itunes:episode>1</itunes:episode>
-   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:episodeType>full</itunes:episode>
    <itunes:explicit>false</itunes:explicit>
   </item>
  </channel>
