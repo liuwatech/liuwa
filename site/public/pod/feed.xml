@@ -14,6 +14,32 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <item>
+   <title>Ep 14 · The doubted buyer, the bug pile and the bend in the royalty</title>
+   <description>The first morning of the new shape: the world, taken apart, every morning. Friday's AI-spending sell-off and what a doubted chip buyer does to copper and the kwacha; why AI-found bugs are delaying Postgres 19; Zambia's copper royalty taken apart band by band; and the first step of the week's maths, how a bigger debt can be a smaller ratio.
+
+Chapters:
+0:00 Cold open
+0:37 Hello and what's coming
+1:36 The numbers
+3:17 The lead
+5:26 How it works: Why AI-found bugs are delaying the software we run
+8:39 Where it's going
+12:24 From scratch: The sliding-scale mineral royalty
+15:29 Show your working: A ratio has two moving parts (debt-to-GDP)
+18:25 Where it came from
+20:35 Close
+
+Full show notes and sources: https://liuwa.co.zm/pod/#ep14
+Nothing in this episode is financial advice. Voices are synthetic.</description>
+   <enclosure url="https://liuwatech.github.io/liuwa-pod-audio/261102_liuwa_pod_ep14.mp3" length="20357726" type="audio/mpeg"/>
+   <guid isPermaLink="false">liuwa-pod-ep14</guid>
+   <pubDate>Mon, 02 Nov 2026 12:00:00 +0200</pubDate>
+   <itunes:duration>1272</itunes:duration>
+   <itunes:episode>14</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
    <title>Ep 13 · Budget week, Hormuz to the minibus fare, and a victory not worth winning</title>
    <description>Budget week: the 2027 budget comes on Friday, with Reuters reporting about K271.9bn of spending and K44.9bn borrowed. The deep dive follows a barrel from the Strait of Hormuz to a Lusaka minibus tank, and asks why cheaper oil this morning does not mean a cheaper litre this week. Plus the rains outlook, South Africa's and America's votes, copper's slip, a GitLab flaw under attack, the rule of 72 and why most fraud alerts are false.
 
