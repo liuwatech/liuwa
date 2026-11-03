@@ -14,6 +14,32 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <item>
+   <title>Ep 15 · An AI rewrote another, and a strike at Hormuz</title>
+   <description>US strikes at Qeshm Island in the Strait of Hormuz, a day after oil's biggest fall since July, and why neither yet makes December's fuel cheaper or dearer; how GPT-6 Astra is said to have rewritten a small open model's weights directly; Anthropic's filing on AI that builds better AI; the spending that hides in the tax code; and how fast a ratio really grows.
+
+Chapters:
+0:00 Cold open
+0:33 Hello and what's coming
+1:17 The numbers
+1:58 The lead
+3:46 How it works: how an AI rewrote another AI
+6:08 Where it's going
+9:06 From scratch: Tax expenditures: the hidden spending
+11:54 Show your working: How fast a ratio grows
+13:57 Where it came from
+15:39 Close
+
+Full show notes and sources: https://liuwa.co.zm/pod/#ep15
+Nothing in this episode is financial advice. Voices are synthetic.</description>
+   <enclosure url="https://liuwatech.github.io/liuwa-pod-audio/261103_liuwa_pod_ep15.mp3" length="15610949" type="audio/mpeg"/>
+   <guid isPermaLink="false">liuwa-pod-ep15</guid>
+   <pubDate>Tue, 03 Nov 2026 06:00:00 +0200</pubDate>
+   <itunes:duration>975</itunes:duration>
+   <itunes:episode>15</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
    <title>Ep 14 · The doubted buyer, the bug pile and the bend in the royalty</title>
    <description>The first morning of the new shape: the world, taken apart, every morning. Friday's AI-spending sell-off and what a doubted chip buyer does to copper and the kwacha; why AI-found bugs are delaying Postgres 19; Zambia's copper royalty taken apart band by band; and the first step of the week's maths, how a bigger debt can be a smaller ratio.
 
@@ -399,7 +425,7 @@ Nothing in this episode is financial advice. Voices are synthetic.</description>
    <pubDate>Wed, 21 Oct 2026 06:00:00 +0200</pubDate>
    <itunes:duration>647</itunes:duration>
    <itunes:episode>1</itunes:episode>
-   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:episodeType>full</itunes:episode>
    <itunes:explicit>false</itunes:explicit>
   </item>
  </channel>
