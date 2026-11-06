@@ -14,6 +14,33 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <item>
+   <title>Ep 18 · Nothing undug: the rout, the budget bar and a thousand paths to root</title>
+   <description>Budget day: Wall Street's worst tech day since April 2025 and why cheaper shares are not cheaper copper; the budget read this afternoon and the surplus bar to judge it by; oil back near $100 after Hormuz tanker fires; the K19.9bn supplementary passed; how an AI pipeline found 948 Linux kernel root flaws; OpenAI's Astra quietly doing worse at safety research; the Alpine SSH hole; how a Treasury bill auction sets the state's rate; and seventy years since work began on Kariba's wall.
+
+Chapters:
+0:00 Cold open
+0:34 Hello and what's coming
+2:15 The numbers
+3:02 The lead
+4:46 Also this morning
+8:30 How it works: how an AI found a thousand ways to take over Linux
+11:46 Where it's going
+14:46 From scratch: The Treasury bill auction
+16:44 Show your working: The surplus that holds the debt steady (budget day)
+18:44 Where it came from
+19:58 Close
+
+Full show notes and sources: https://liuwa.co.zm/pod/#ep18
+Nothing in this episode is financial advice. Voices are synthetic.</description>
+   <enclosure url="https://liuwatech.github.io/liuwa-pod-audio/261106_liuwa_pod_ep18.mp3" length="19870394" type="audio/mpeg"/>
+   <guid isPermaLink="false">liuwa-pod-ep18</guid>
+   <pubDate>Fri, 06 Nov 2026 06:00:00 +0200</pubDate>
+   <itunes:duration>1242</itunes:duration>
+   <itunes:episode>18</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
    <title>Ep 17 · Oil, open weights and the debt snowball</title>
    <description>Brent's biggest fall in months as Washington blames the Iran war for the midterm rout, and why a cheaper morning is not yet cheaper diesel here; what a lab actually hands you when it opens the weights of a near-frontier model (Moonshot's Kimi K3.1 Pro); an old Apple flaw to patch today; how GDP is counted; and the debt snowball, where interest races growth.
 
@@ -477,7 +504,7 @@ Nothing in this episode is financial advice. Voices are synthetic.</description>
    <pubDate>Wed, 21 Oct 2026 06:00:00 +0200</pubDate>
    <itunes:duration>647</itunes:duration>
    <itunes:episode>1</itunes:episode>
-   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:episodeType>full</itunes:episode>
    <itunes:explicit>false</itunes:explicit>
   </item>
  </channel>
