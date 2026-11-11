@@ -14,6 +14,33 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <item>
+   <title>Ep 23 · Money leaving at five per cent, and a box that takes years to replace</title>
+   <description>US prices ran hot in October and a December Fed rise now looks likely, with the US 10-year back at 5%. How the carry trade works, and how a US rate rise can pull money out of Lusaka's bond market. Also: Microsoft's Outlook zero-day, N-able's N-central offline, why the transformer is the grid's weak point, I-squared-R line losses from Kariba, the word defer and Rhodesia's UDI.
+
+Chapters:
+0:00 Cold open
+0:26 Hello and what's coming
+1:45 The numbers
+2:33 The lead
+4:42 Also this morning
+7:08 How it works: the carry trade, and how a US rate rise pulls money out of Lusaka
+11:59 Where it's going
+14:55 From scratch: Why the transformer is the grid's weak point
+16:39 Show your working: Moving the energy: losses grow with the square of current
+18:10 Where it came from
+19:18 Close
+
+Full show notes and sources: https://liuwa.co.zm/pod/#ep23
+Nothing in this episode is financial advice. Voices are synthetic.</description>
+   <enclosure url="https://liuwatech.github.io/liuwa-pod-audio/261111_liuwa_pod_ep23.mp3" length="19176583" type="audio/mpeg"/>
+   <guid isPermaLink="false">liuwa-pod-ep23</guid>
+   <pubDate>Wed, 11 Nov 2026 06:00:00 +0200</pubDate>
+   <itunes:duration>1198</itunes:duration>
+   <itunes:episode>23</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
    <title>Ep 22 · A war called over, and the barrel that is not on the news</title>
    <description>Trump calls the Iran war effectively over while the blockade stands, and Brent settles about 6% lower near $92.57. How December's pump price is made, with fuel VAT due back on 1 December. Anthropic's Fable and Mythos 5.2, France's hacked freezers, the power an AI data centre needs, and pumped storage as a water battery.
 
@@ -608,7 +635,7 @@ Nothing in this episode is financial advice. Voices are synthetic.</description>
    <pubDate>Wed, 21 Oct 2026 06:00:00 +0200</pubDate>
    <itunes:duration>647</itunes:duration>
    <itunes:episode>1</itunes:episode>
-   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:episodeType>full</itunes:episode>
    <itunes:explicit>false</itunes:explicit>
   </item>
  </channel>
