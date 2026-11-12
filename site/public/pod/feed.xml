@@ -14,6 +14,33 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <item>
+   <title>Ep 24 · Huang's chair and who goes dark</title>
+   <description>Nvidia's board is reported to be meeting on whether Jensen Huang stays as chief executive after an 8.6% after-hours fall; How it works takes apart OpenAI's reported $10bn quarter and why an AI lab still loses more than a dollar per dollar; the grid week reaches load shedding and the swing equation: 1.6 seconds from 50 to 49 hertz.
+
+Chapters:
+0:00 Cold open
+0:26 Hello and what's coming
+1:54 The numbers
+3:01 The lead
+5:26 Also this morning
+7:27 How it works: why a 10 billion dollar AI quarter still loses money
+11:08 Where it's going
+13:51 From scratch: Load shedding: how a utility chooses who goes dark
+15:19 Show your working: Keeping the balance: the swing equation
+16:56 Where it came from
+19:09 Close
+
+Full show notes and sources: https://liuwa.co.zm/pod/#ep24
+Nothing in this episode is financial advice. Voices are synthetic.</description>
+   <enclosure url="https://liuwatech.github.io/liuwa-pod-audio/261112_liuwa_pod_ep24.mp3" length="19088773" type="audio/mpeg"/>
+   <guid isPermaLink="false">liuwa-pod-ep24</guid>
+   <pubDate>Thu, 12 Nov 2026 06:00:00 +0200</pubDate>
+   <itunes:duration>1193</itunes:duration>
+   <itunes:episode>24</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
    <title>Ep 23 · Money leaving at five per cent, and a box that takes years to replace</title>
    <description>US prices ran hot in October and a December Fed rise now looks likely, with the US 10-year back at 5%. How the carry trade works, and how a US rate rise can pull money out of Lusaka's bond market. Also: Microsoft's Outlook zero-day, N-able's N-central offline, why the transformer is the grid's weak point, I-squared-R line losses from Kariba, the word defer and Rhodesia's UDI.
 
@@ -581,7 +608,7 @@ Nothing in this episode is financial advice. Voices are synthetic.</description>
    <pubDate>Thu, 22 Oct 2026 13:00:00 +0200</pubDate>
    <itunes:duration>790</itunes:duration>
    <itunes:episode>3</itunes:episode>
-   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:episodeType>full</itunes:episode>
    <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
