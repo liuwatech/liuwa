@@ -14,6 +14,33 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <item>
+   <title>Ep 25 · Huang walks out of Nvidia, and the sun gets stored for the evening</title>
+   <description>Jensen Huang has resigned as Nvidia's chief executive, and we take apart how a US chip export licence works and how controlled chips still leak through third countries. Also: Brent back near $96 on claimed Gulf attacks, US envoys in Moscow, yields near 5%. Then Gemini 4 Hydrogen, an Apache patch to run today, the merit order, and a battery that stores the sun for Lusaka's evening.
+
+Chapters:
+0:00 Cold open
+0:27 Hello and what's coming
+1:46 The numbers
+2:43 The lead
+5:33 Also this morning
+7:55 How it works: how a chip export licence works, and how chips leak
+12:32 Where it's going
+16:13 From scratch: The merit order: how an electricity market sets one price
+17:45 Show your working: Storing sun for the evening
+19:24 Where it came from
+21:10 Close
+
+Full show notes and sources: https://liuwa.co.zm/pod/#ep25
+Nothing in this episode is financial advice. Voices are synthetic.</description>
+   <enclosure url="https://liuwatech.github.io/liuwa-pod-audio/261113_liuwa_pod_ep25.mp3" length="20965027" type="audio/mpeg"/>
+   <guid isPermaLink="false">liuwa-pod-ep25</guid>
+   <pubDate>Fri, 13 Nov 2026 06:00:00 +0200</pubDate>
+   <itunes:duration>1310</itunes:duration>
+   <itunes:episode>25</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
    <title>Ep 24 · Huang's chair and who goes dark</title>
    <description>Nvidia's board is reported to be meeting on whether Jensen Huang stays as chief executive after an 8.6% after-hours fall; How it works takes apart OpenAI's reported $10bn quarter and why an AI lab still loses more than a dollar per dollar; the grid week reaches load shedding and the swing equation: 1.6 seconds from 50 to 49 hertz.
 
