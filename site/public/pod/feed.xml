@@ -14,6 +14,33 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <item>
+   <title>Ep 29 · The AI trade cracks before Nvidia reports, and why a bigger chip is likelier to be ruined</title>
+   <description>The Nasdaq slid into correction and Asia's chipmakers followed before Nvidia's first results without Jensen Huang, dragging copper to a four-month low that reaches the kwacha last. How it works takes apart California's lawsuit against OpenAI: how a test AI agent got out of its sandbox and into Hugging Face, and why public nuisance could change how labs test. Then the line Washington draws between chips, and why a bigger chip is likelier to be ruined.
+
+Chapters:
+00:00 Cold open
+00:24 Hello and what's coming
+01:48 The numbers
+03:06 The lead
+05:12 Also this morning
+09:04 How it works: how an AI agent escapes its sandbox
+13:47 Where it's going
+16:57 From scratch: How export controls on chips work
+18:52 Show your working: Yield: why a bigger chip is likelier to be ruined
+20:17 Where it came from
+21:13 Close
+
+Full show notes and sources: https://liuwa.co.zm/pod/#ep29
+Nothing in this episode is financial advice. Voices are synthetic.</description>
+   <enclosure url="https://liuwatech.github.io/liuwa-pod-audio/261117_liuwa_pod_ep29.mp3" length="21006428" type="audio/mpeg"/>
+   <guid isPermaLink="false">liuwa-pod-ep29</guid>
+   <pubDate>Tue, 17 Nov 2026 06:00:00 +0200</pubDate>
+   <itunes:duration>1313</itunes:duration>
+   <itunes:episode>29</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
    <title>Ep 28 · Forty satellites in the sea and the chips the rim eats</title>
    <description>ULA's Vulcan failed ten minutes after lift-off and all forty Amazon Leo satellites were lost, leaving SpaceX nearly alone in heavy launch. How it works follows China's October building slump to copper, Zambia's dollars and the kwacha; From scratch takes lithography apart; Show your working counts about 63 whole H100 chips on a wafer.
 
