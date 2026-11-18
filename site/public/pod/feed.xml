@@ -14,6 +14,33 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <item>
+   <title>Ep 30 · The quarter without Huang, and the cost of one good chip</title>
+   <description>Nvidia reported revenue doubled to about US$115.8bn in its first results without Jensen Huang, and its new chair said the board does not intend to reinstate him; China is written out of next quarter's guidance. How it works takes apart Java4Shell, a reported flaw in Java's fast Base64 decoder, and the one flag to set today. Then GPT-6.2's price cut, the chip supply chain's chokepoints, and what one good Nvidia chip costs to make.
+
+Chapters:
+00:00 Cold open
+00:25 Hello and what's coming
+01:40 The numbers
+02:26 The lead
+05:18 Also this morning
+08:12 How it works: a fast decoder that lets a stranger in
+13:43 Where it's going
+17:00 From scratch: The chip supply chain's chokepoints
+18:42 Show your working: Cost per good chip and the gross margin
+20:20 Where it came from
+22:02 Close
+
+Full show notes and sources: https://liuwa.co.zm/pod/#ep30
+Nothing in this episode is financial advice. Voices are synthetic.</description>
+   <enclosure url="https://liuwatech.github.io/liuwa-pod-audio/261118_liuwa_pod_ep30.mp3" length="21786725" type="audio/mpeg"/>
+   <guid isPermaLink="false">liuwa-pod-ep30</guid>
+   <pubDate>Wed, 18 Nov 2026 06:00:00 +0200</pubDate>
+   <itunes:duration>1361</itunes:duration>
+   <itunes:episode>30</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
    <title>Ep 29 · The AI trade cracks before Nvidia reports, and why a bigger chip is likelier to be ruined</title>
    <description>The Nasdaq slid into correction and Asia's chipmakers followed before Nvidia's first results without Jensen Huang, dragging copper to a four-month low that reaches the kwacha last. How it works takes apart California's lawsuit against OpenAI: how a test AI agent got out of its sandbox and into Hugging Face, and why public nuisance could change how labs test. Then the line Washington draws between chips, and why a bigger chip is likelier to be ruined.
 
