@@ -14,6 +14,33 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <item>
+   <title>Ep 31 · Eighty-three dollars a share and a switch made of sand</title>
+   <description>Anthropic priced its IPO at US$83 a share, above its US$70-78 range, raising about US$81bn at about US$1.5tn fully diluted; it trades on Nasdaq as ANT from 19 Nov. Vitol is picked to upgrade and run the TAZAMA pipeline. How it works takes apart the two nginx HTTP/2 flaws that let a stranger run code before any login; then Gemini 4 Neon, a hijacked Microsoft package on PyPI, the transistor from scratch, and the arithmetic of the chip-export line.
+
+Chapters:
+00:00 Cold open
+00:28 Hello and what's coming
+01:40 The numbers
+02:29 The lead
+05:04 Also this morning
+08:51 How it works: how one web server's HTTP/2 door lets a stranger in
+13:59 Where it's going
+17:14 From scratch: The transistor: a switch made of sand
+18:50 Show your working: The export-control line: a threshold written as a formula
+20:16 Where it came from
+22:40 Close
+
+Full show notes and sources: https://liuwa.co.zm/pod/#ep31
+Nothing in this episode is financial advice. Voices are synthetic.</description>
+   <enclosure url="https://liuwatech.github.io/liuwa-pod-audio/261119_liuwa_pod_ep31.mp3" length="22362253" type="audio/mpeg"/>
+   <guid isPermaLink="false">liuwa-pod-ep31</guid>
+   <pubDate>Thu, 19 Nov 2026 06:00:00 +0200</pubDate>
+   <itunes:duration>1397</itunes:duration>
+   <itunes:episode>31</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
    <title>Ep 30 · The quarter without Huang, and the cost of one good chip</title>
    <description>Nvidia reported revenue doubled to about US$115.8bn in its first results without Jensen Huang, and its new chair said the board does not intend to reinstate him; China is written out of next quarter's guidance. How it works takes apart Java4Shell, a reported flaw in Java's fast Base64 decoder, and the one flag to set today. Then GPT-6.2's price cut, the chip supply chain's chokepoints, and what one good Nvidia chip costs to make.
 
@@ -684,7 +711,7 @@ Nothing in this episode is financial advice. Voices are synthetic.</description>
    <pubDate>Sun, 25 Oct 2026 06:00:00 +0200</pubDate>
    <itunes:duration>788</itunes:duration>
    <itunes:episode>6</itunes:episode>
-   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:episodeType>full</itunes:episode>
    <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
