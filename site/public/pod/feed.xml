@@ -14,6 +14,33 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <item>
+   <title>Ep 32 · The sixth fall and how many chips it takes to train a model</title>
+   <description>Wall Street fell a sixth straight day as a hot US inflation print made a December Fed rise look likely; why a rate scare hits long-dated shares hardest and how the dearer dollar reaches the kwacha. Anthropic's first day on Nasdaq, a PHP-FPM patch to do today, how a smuggled chip could be traced by the speed of light, and how many chips it takes to train a frontier model.
+
+Chapters:
+00:00 Cold open
+00:23 Hello and what's coming
+01:33 The numbers
+02:20 The lead
+04:24 Also this morning
+08:11 How it works: why a rate scare hits long-dated shares hardest
+12:37 Where it's going
+16:09 From scratch: How a banned chip crosses a border, and how it is traced
+17:43 Show your working: How many chips it takes to train a frontier model
+19:28 Where it came from
+20:27 Close
+
+Full show notes and sources: https://liuwa.co.zm/pod/#ep32
+Nothing in this episode is financial advice. Voices are synthetic.</description>
+   <enclosure url="https://liuwatech.github.io/liuwa-pod-audio/261120_liuwa_pod_ep32.mp3" length="20263685" type="audio/mpeg"/>
+   <guid isPermaLink="false">liuwa-pod-ep32</guid>
+   <pubDate>Fri, 20 Nov 2026 06:00:00 +0200</pubDate>
+   <itunes:duration>1266</itunes:duration>
+   <itunes:episode>32</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
    <title>Ep 31 · Eighty-three dollars a share and a switch made of sand</title>
    <description>Anthropic priced its IPO at US$83 a share, above its US$70-78 range, raising about US$81bn at about US$1.5tn fully diluted; it trades on Nasdaq as ANT from 19 Nov. Vitol is picked to upgrade and run the TAZAMA pipeline. How it works takes apart the two nginx HTTP/2 flaws that let a stranger run code before any login; then Gemini 4 Neon, a hijacked Microsoft package on PyPI, the transistor from scratch, and the arithmetic of the chip-export line.
 
