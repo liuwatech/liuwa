@@ -14,6 +14,31 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <item>
+   <title>Ep 33 · A proof that compiles and the week's five steps</title>
+   <description>A Russian missile on Polish soil, the AI sell-off's worst week in six years and S&amp;P moving Zambia up a notch to B-; a claimed machine-checked proof of the Generalized Riemann Hypothesis and what a proof checker does and does not check; the chip week on one page and what the five maths steps built; halcyon and the first untethered balloon flight.
+
+Chapters:
+00:00 Cold open
+00:29 Hello and what's coming
+01:30 The numbers
+02:18 The week in 10
+05:02 Where it's going
+07:22 What we took apart this week
+09:05 What the week built
+10:32 Where it came from
+12:09 Close
+
+Full show notes and sources: https://liuwa.co.zm/pod/#ep33
+Nothing in this episode is financial advice. Voices are synthetic.</description>
+   <enclosure url="https://liuwatech.github.io/liuwa-pod-audio/261121_liuwa_pod_ep33.mp3" length="12198732" type="audio/mpeg"/>
+   <guid isPermaLink="false">liuwa-pod-ep33</guid>
+   <pubDate>Sat, 21 Nov 2026 06:00:00 +0200</pubDate>
+   <itunes:duration>762</itunes:duration>
+   <itunes:episode>33</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
    <title>Ep 32 · The sixth fall and how many chips it takes to train a model</title>
    <description>Wall Street fell a sixth straight day as a hot US inflation print made a December Fed rise look likely; why a rate scare hits long-dated shares hardest and how the dearer dollar reaches the kwacha. Anthropic's first day on Nasdaq, a PHP-FPM patch to do today, how a smuggled chip could be traced by the speed of light, and how many chips it takes to train a frontier model.
 
