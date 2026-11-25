@@ -14,6 +14,27 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <item>
+   <title>Ep 37 · Who checks the checker? Trusting seventeen million machine lines</title>
+   <description>The briefing: a Brooklyn jury convicts Huawei on ten of twelve counts, Iran sets seven conditions for talks and tightens Hormuz, AI agents help a crew seize Check Point firewall management servers, Drupal and VMware patches, and the tech sell-off (Nvidia down about 6%, Anthropic below its listing price). Then the subject, part two of three on the Riemann Hypothesis: what a proof checker such as Lean actually checks (the small kernel, the axioms, the statement at the top), the July Collatz exploit that fooled two checkers, and what has and has not been confirmed about Alpöge's seventeen-million-line proof.
+
+Chapters:
+00:00 Cold open
+00:41 Hello and what's coming
+01:02 The briefing
+05:56 The subject: Who checks the checker? Trusting seventeen million machine lines
+19:54 Close
+
+Full show notes and sources: https://liuwa.co.zm/pod/#ep37
+Nothing in this episode is financial advice. Voices are synthetic.</description>
+   <enclosure url="https://liuwatech.github.io/liuwa-pod-audio/261125_liuwa_pod_ep37.mp3" length="20189711" type="audio/mpeg"/>
+   <guid isPermaLink="false">liuwa-pod-ep37</guid>
+   <pubDate>Wed, 25 Nov 2026 06:00:00 +0200</pubDate>
+   <itunes:duration>1262</itunes:duration>
+   <itunes:episode>37</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
    <title>Ep 36 · Pins on a Road: Riemann's Hypothesis and Friday's Two Claims</title>
    <description>The first two-host morning. The briefing: Nvidia's board reinstates Jensen Huang and the shares jump about 31%, the US files to add Megaspeed to its Entity List, COP31 ends with no deal, and the week's rate decisions. Then the subject, part one of three: what the Riemann Hypothesis says, explained from zero (primes, Gauss's curve, Riemann's zeros as pins on a road, why the road means the primes stray by no more than a square root), and what Friday's two claimed proofs, Alpöge's seventeen-million-line Lean proof and Masullo's human proof, have and have not established.
 
