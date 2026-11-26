@@ -14,6 +14,27 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <item>
+   <title>Ep 38 · The proof is checked, and nobody knows why</title>
+   <description>The briefing: Washington proposes Section 301 tariffs on fourteen partners with China at 20%, the FCC conditionally clears SpaceX's million-satellite Starmind plan, Brent jumps on unverified Gulf reports, Britain's energy cap rises 26%, Google's unreviewed Cogentic factoring papers, the Palo Alto firewall and 1Password breaches, and generic lenacapavir arrives in Zambia. Then the subject, the last part of the Riemann series: a proof does two jobs, a certificate and an explanation, and the machine-found proof reportedly has the first without the second; the chessboard, the four colours, Kepler, Voevodsky, Scholze and the 200-terabyte proof.
+
+Chapters:
+00:00 Cold open
+00:39 Hello and what's coming
+01:01 The briefing
+05:23 The subject: The proof is checked, and nobody knows why
+19:00 Close
+
+Full show notes and sources: https://liuwa.co.zm/pod/#ep38
+Nothing in this episode is financial advice. Voices are synthetic.</description>
+   <enclosure url="https://liuwatech.github.io/liuwa-pod-audio/261126_liuwa_pod_ep38.mp3" length="18982205" type="audio/mpeg"/>
+   <guid isPermaLink="false">liuwa-pod-ep38</guid>
+   <pubDate>Thu, 26 Nov 2026 06:00:00 +0200</pubDate>
+   <itunes:duration>1186</itunes:duration>
+   <itunes:episode>38</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
    <title>Ep 37 · Who checks the checker? Trusting seventeen million machine lines</title>
    <description>The briefing: a Brooklyn jury convicts Huawei on ten of twelve counts, Iran sets seven conditions for talks and tightens Hormuz, AI agents help a crew seize Check Point firewall management servers, Drupal and VMware patches, and the tech sell-off (Nvidia down about 6%, Anthropic below its listing price). Then the subject, part two of three on the Riemann Hypothesis: what a proof checker such as Lean actually checks (the small kernel, the axioms, the statement at the top), the July Collatz exploit that fooled two checkers, and what has and has not been confirmed about Alpöge's seventeen-million-line proof.
 
