@@ -14,6 +14,27 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <item>
+   <title>Ep 39 · The padlock on everything, and the proof nobody has</title>
+   <description>The briefing: a drone attack in Kuwait kills two Italians (Kuwait blames Iran, which denies it) and the Houthis hit Saudi Arabia's Jazan refinery; the Bank of Zambia decides on its 10.75% policy rate today as November inflation edges up; SpaceX's million-satellite licence returns with its conditions; Nvidia pauses shipments to south-east Asia; OpenAI's limits arrive faster; Trump calls the Q3 GDP figures fake. Then the subject: Scott Aaronson says he has been told AI labs hold results that could break deployed cryptography, so Lombe and Chanda take apart RSA from zero: the public padlock, a toy lock worked by ear, why factoring is believed but never proved hard, the three grades of speed-up, signatures and harvest-now-decrypt-later, Shor and quantum, and the move to post-quantum standards.
+
+Chapters:
+00:00 Cold open
+00:51 Hello and what's coming
+01:16 The briefing
+05:49 The subject: The padlock on everything, and the proof nobody has
+19:45 Close
+
+Full show notes and sources: https://liuwa.co.zm/pod/#ep39
+Nothing in this episode is financial advice. Voices are synthetic.</description>
+   <enclosure url="https://liuwatech.github.io/liuwa-pod-audio/261127_liuwa_pod_ep39.mp3" length="20148738" type="audio/mpeg"/>
+   <guid isPermaLink="false">liuwa-pod-ep39</guid>
+   <pubDate>Fri, 27 Nov 2026 06:00:00 +0200</pubDate>
+   <itunes:duration>1259</itunes:duration>
+   <itunes:episode>39</itunes:episode>
+   <itunes:episodeType>full</itunes:episodeType>
+   <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
    <title>Ep 38 · The proof is checked, and nobody knows why</title>
    <description>The briefing: Washington proposes Section 301 tariffs on fourteen partners with China at 20%, the FCC conditionally clears SpaceX's million-satellite Starmind plan, Brent jumps on unverified Gulf reports, Britain's energy cap rises 26%, Google's unreviewed Cogentic factoring papers, the Palo Alto firewall and 1Password breaches, and generic lenacapavir arrives in Zambia. Then the subject, the last part of the Riemann series: a proof does two jobs, a certificate and an explanation, and the machine-found proof reportedly has the first without the second; the chessboard, the four colours, Kepler, Voevodsky, Scholze and the 200-terabyte proof.
 
